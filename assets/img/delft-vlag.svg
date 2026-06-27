@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" role="img" aria-label="Vlag van Delft">
+  <defs><clipPath id="r"><rect x="0" y="0" width="30" height="20" rx="3"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="30" height="20" fill="#ffffff"/>
+    <rect y="6.667" width="30" height="6.666" fill="#141619"/>
+  </g>
+  <rect x="0.6" y="0.6" width="28.8" height="18.8" rx="2.6" fill="none" stroke="#15243B" stroke-width="1.1"/>
+</svg>

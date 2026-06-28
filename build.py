@@ -242,7 +242,7 @@ def page_home():
       <p class="lead">Een korte impressie van trainen aan huis en in de buitenlucht, van de Delftse Hout tot de eigen wijk.</p>
     </div>
     <div class="sfeer-video">
-      <video autoplay muted loop playsinline preload="metadata" poster="/assets/img/sfeer-delft-poster.jpg?v={POS_VER}" aria-label="Impressie van personal training in Delft">
+      <video controls playsinline preload="metadata" poster="/assets/img/sfeer-delft-poster.jpg?v={POS_VER}" aria-label="Video over personal training in Delft">
         <source src="/assets/video/sfeer-delft.mp4?v={VID_VER}" type="video/mp4">
       </video>
     </div>
